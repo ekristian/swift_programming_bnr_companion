@@ -10,3 +10,4 @@ import Cocoa
 
 var str = "Hello, playground"
 str += "!" // += addition and assignment in a single operator
+print(str)
