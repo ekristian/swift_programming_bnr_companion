@@ -1,4 +1,4 @@
-# Swift Programming: The Big Nerd Ranch Guid  
+# Swift Programming: The Big Nerd Ranch Guide  
 ## The Companion  
 
 The purpose of this repository is to provide the coded examples found in the book along with the challenges and some additional commentary obtained while reading the book.  
