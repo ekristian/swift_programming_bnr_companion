@@ -6,7 +6,7 @@
 //  Copyright © 2018 E. Kristian Heidenreich. All rights reserved.
 //
 
-import Foundation
+import Cocoa
 
-print("Hello, World!")
-
+var str = "Hello, playground"
+str += "!" // += addition and assignment in a single operator
