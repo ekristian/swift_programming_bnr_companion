@@ -8,13 +8,13 @@
 
 import Cocoa
 
-let numberOfStoplights: Int = 4
-var population: Int
-population = 5422
-let townName: String = "Knowwhere"
-// Reader Comments: unemployment level is usually a percentage;
-// however thus far the only data types discussed in the text have been String and Int.
-// The unemployment level would probably be better described as population/unemploymentLevel.
-var unemploymentLevel: Int = 10
-let townDescription = "\(townName) has a population of \(population), \(numberOfStoplights) stoplights and an unemployment level of \(unemploymentLevel)."
-print(townDescription)
+var population: Int = 5422
+var message: String
+
+if population < 10000 {
+    message = "\(population) is a small town!"
+} else {
+    message = "\(population) is pretty big!"
+}
+
+print(message)
