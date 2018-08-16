@@ -9,5 +9,6 @@
 import Cocoa
 
 let numberOfStoplights: Int = 4
+var population: Int
 
 print(numberOfStoplights)
