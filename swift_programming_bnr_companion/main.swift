@@ -10,5 +10,5 @@ import Cocoa
 
 let numberOfStoplights: Int = 4
 var population: Int
-
-print(numberOfStoplights)
+population = 5422
+print(population)
