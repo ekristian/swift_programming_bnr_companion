@@ -8,6 +8,5 @@
 
 import Cocoa
 
-var str = "Hello, playground"
-str += "!" // += addition and assignment in a single operator
+var str = "Your Last Name"
 print(str)
