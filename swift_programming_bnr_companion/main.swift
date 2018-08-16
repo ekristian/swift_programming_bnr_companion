@@ -9,5 +9,5 @@
 import Cocoa
 
 var numberOfStoplights = "Four"
-
+numberOfStoplights += 2
 print(numberOfStoplights)
