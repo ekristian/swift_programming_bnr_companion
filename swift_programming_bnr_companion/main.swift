@@ -8,5 +8,6 @@
 
 import Cocoa
 
-var str = "Your Last Name"
-print(str)
+var numberOfStoplights = "Four"
+
+print(numberOfStoplights)
